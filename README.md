@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1aGViODhpdzRsdDUzMzkydnhqaXZ1NTZmeHVkMTVrbjZzcmdkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2l1VJfvboZNCK3hMP2/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1aGViODhpdzRsdDUzMzkydnhqaXZ1NTZmeHVkMTVrbjZzcmdkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dDZFrPg134bZIU2Ain/giphy.gif" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Berli Feriz Adam</h1>
