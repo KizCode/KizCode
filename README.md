@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1aGViODhpdzRsdDUzMzkydnhqaXZ1NTZmeHVkMTVrbjZzcmdkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dDZFrPg134bZIU2Ain/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1aGViODhpdzRsdDUzMzkydnhqaXZ1NTZmeHVkMTVrbjZzcmdkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2l1VJfvboZNCK3hMP2/giphy.gif" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Berli Feriz Adam</h1>
@@ -9,50 +9,56 @@
 
 ## 👨‍💻 About Me
 Saya mahasiswa IT yang fokus di pengembangan backend dan web application.  
-Aktif mengembangkan project berbasis Laravel, REST API, dan Flutter.
+Aktif membangun project menggunakan Laravel, REST API, dan Flutter.
 
-Minat utama saya:
+Tertarik pada:
 - Backend Development
 - API Architecture
 - Database Design
-- Machine Learning dasar
+- Machine Learning
 
 ---
 
 ## 🛠 Tech Stack
-- Backend : Laravel, PHP
-- API : Laravel Sanctum
-- Frontend : Blade, Flutter
-- Database : MySQL
-- Programming : Python, Java
-- Tools : Git, Composer, Vite
+<p align="center">
+Laravel • PHP • MySQL • Flutter • Python • Java • Git • Composer • Vite
+</p>
 
 ---
 
 ## 📌 Featured Projects
 - **CafeSync-WEB** → Web manajemen cafe berbasis Laravel  
 - **Task API** → REST API dengan autentikasi Sanctum  
-- **XGBoostModel** → Implementasi Machine Learning (Breast Cancer Dataset)  
+- **XGBoostModel** → Machine Learning (Breast Cancer Dataset)  
 - **PPBL-TA-2526** → Aplikasi Flutter  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KizCode&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KizCode&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KizCode&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=KizCode&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KizCode&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KizCode&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
-Mendalami backend development dan membangun sistem yang scalable serta clean architecture.
+Mendalami backend development dan membangun sistem yang scalable dengan clean architecture.
 
 ---
 
 <p align="center">
-Terima kasih sudah berkunjung 🙌
+Thanks for visiting 🙌
 </p>
