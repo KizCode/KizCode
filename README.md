@@ -1,4 +1,5 @@
-<!-- HERO SECTION -->
+<!-- ================= HERO ================= -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY1aGViODhpdzRsdDUzMzkydnhqaXZ1NTZmeHVkMTVrbjZzcmdkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2l1VJfvboZNCK3hMP2/giphy.gif" width="650"/>
 </p>
@@ -7,29 +8,33 @@
 <h3 align="center">Backend Engineer • Web Developer • Informatics Student</h3>
 
 <p align="center">
-Building scalable backend systems & clean web architecture.
+Building scalable backend systems & clean architecture.
 </p>
 
 ---
 
+<!-- ================= ABOUT ================= -->
+
 ## About Me
 
-Saya mahasiswa Informatika yang berfokus pada backend engineering dan pengembangan web application.  
-Berpengalaman membangun REST API, sistem manajemen berbasis Laravel, serta eksplorasi machine learning untuk kebutuhan data-driven project.
+Saya mahasiswa Informatika yang fokus pada backend engineering dan pengembangan web application.  
+Berpengalaman membangun REST API menggunakan Laravel serta mengembangkan sistem berbasis database yang terstruktur dan scalable.
 
-Saya terbiasa bekerja dengan struktur yang rapi, clean code, dan pendekatan arsitektur yang terorganisir.
+Saya tertarik pada clean code, system design, dan implementasi machine learning dalam project nyata.
 
 ---
+
+<!-- ================= STACK ================= -->
 
 ## Core Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,flutter,java,git,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,flutter,java,git,vscode&perline=8" />
 </p>
 
 ---
+
+<!-- ================= PROJECT ================= -->
 
 ## Selected Projects
 
@@ -40,31 +45,35 @@ Web-based cafe management system built with Laravel & Vite.
 RESTful API dengan authentication menggunakan Laravel Sanctum.
 
 **Breast Cancer Classification Model**  
-Implementasi machine learning menggunakan Python & XGBoost.
+Machine learning implementation using Python & XGBoost.
 
 **Flutter Shopping App**  
-Mobile app dengan interactive UI (SnackBar, Dialog, BottomSheet).
+Interactive mobile application with Snackbar, Dialog & BottomSheet.
 
 ---
+
+<!-- ================= ANALYTICS ================= -->
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KizCode&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=KizCode&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KizCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=KizCode&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KizCode&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KizCode&theme=tokyo-night&area=true&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
+
+<!-- ================= FOCUS ================= -->
 
 ## Current Focus
 
 - Advanced Backend Architecture  
 - API Security & Optimization  
-- Clean Code & Scalable System Design  
+- Scalable System Design  
 - Practical Machine Learning Implementation  
 
 ---
