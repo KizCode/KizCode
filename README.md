@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/HqtFLIO8IZ8AAAAC/chitoge-chitoge-kirisaki.gif" alt="Chitoge Kirisaki" height="260"/>
-<img src="https://media.tenor.com/LDMPF_FHCRgAAAAC/chitoge-kirisaki-nisekoi.gif" alt="Chitoge" height="260"/>
+<img src="https://media.tenor.com/HqtFLIO8IZ8AAAAC/chitoge-chitoge-kirisaki.gif" alt="Chitoge Kirisaki" height="280"/>
 
 <br/>
 
