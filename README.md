@@ -134,8 +134,8 @@ Flutter Shopping App ─────────── Interactive mobile UX
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KizCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KizCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=KizCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KizCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
 <br/>
 
