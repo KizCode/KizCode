@@ -2,9 +2,8 @@
 
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Kafka_Character_Preview_Details_4.gif/revision/latest" alt="Kafka" height="220"/>
-<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Firefly_Character_Preview_Details_4.gif/revision/latest" alt="Firefly" height="220"/>
-<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Acheron_Character_Preview_Details_4.gif/revision/latest" alt="Acheron" height="220"/>
+<img src="https://media.tenor.com/HqtFLIO8IZ8AAAAC/chitoge-chitoge-kirisaki.gif" alt="Chitoge Kirisaki" height="260"/>
+<img src="https://media.tenor.com/LDMPF_FHCRgAAAAC/chitoge-kirisaki-nisekoi.gif" alt="Chitoge" height="260"/>
 
 <br/>
 
@@ -18,7 +17,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-KizCode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KizCode)
 [![Profile Views](https://komarev.com/ghpvc/?username=KizCode&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)](https://github.com/KizCode)
-[![Honkai: Star Rail](https://img.shields.io/badge/Honkai%3A%20Star%20Rail-Trailblazer-6C5CE7?style=for-the-badge)](https://hsr.hoyoverse.com/)
+[![Favorite](https://img.shields.io/badge/Favorite-Chitoge%20Kirisaki-FF6B9D?style=for-the-badge)](https://nisekoi.fandom.com/wiki/Chitoge_Kirisaki)
 
 </div>
 
@@ -50,32 +49,33 @@ Ketertarikan utama saya: **clean code**, **system design**, dan penerapan **mach
 
 ---
 
-<!-- ================= HONKAI STAR RAIL ================= -->
+<!-- ================= CHITOGE ================= -->
 
-## Favorite Characters — Honkai: Star Rail
+## Favorite Character — Chitoge Kirisaki
 
 <div align="center">
 
-| Kafka | Firefly | Acheron |
-|:-----:|:-------:|:-------:|
-| <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Kafka_Character_Preview_Details_5.gif/revision/latest" alt="Kafka" width="200"/> | <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Firefly_Character_Preview_Details_5.gif/revision/latest" alt="Firefly" width="200"/> | <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/Acheron_Character_Preview_Details_5.gif/revision/latest" alt="Acheron" width="200"/> |
-| *Nihility · Lightning* | *Destruction · Fire* | *Nihility · Lightning* |
-
-| Silver Wolf | Sparkle | Black Swan |
-|:-----------:|:-------:|:----------:|
-| <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/Silver_Wolf_Character_Preview_Details_4.gif/revision/latest" alt="Silver Wolf" width="200"/> | <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/Sparkle_Character_Preview_Details_4.gif/revision/latest" alt="Sparkle" width="200"/> | <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Black_Swan_Character_Preview_Details_4.gif/revision/latest" alt="Black Swan" width="200"/> |
-| *Nihility · Quantum* | *Harmony · Quantum* | *Nihility · Wind* |
+<img src="https://static.wikia.nocookie.net/nisekoi/images/c/c6/Chitoge-nisekoi.png/revision/latest" alt="Chitoge Kirisaki" height="320"/>
 
 <br/>
 
-<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Kafka_Character_Preview_Details_6.gif/revision/latest" alt="Kafka" height="160"/>
-<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Firefly_Character_Preview_Details_6.gif/revision/latest" alt="Firefly" height="160"/>
-<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Acheron_Character_Preview_Details_6.gif/revision/latest" alt="Acheron" height="160"/>
-<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Blade_Character_Preview_Details_4.gif/revision/latest" alt="Blade" height="160"/>
+**Chitoge Kirisaki** · *Nisekoi*
+
+Tsundere queen with a soft heart — blonde twin-tails, fierce punches, and unexpected sweetness.
 
 <br/>
 
-*May this journey lead us starward.* 🚂✨
+<img src="https://media.tenor.com/wM6TaxvmaOoAAAAC/chitoge-kirisaki-nisekoi.gif" alt="Chitoge" height="180"/>
+<img src="https://media.tenor.com/0cjnZdD4g7wAAAAC/chitoge-kirisaki-nisekoi.gif" alt="Chitoge" height="180"/>
+<img src="https://media.tenor.com/QRGdRr48IToAAAAC/nisekoi-kirisaki.gif" alt="Chitoge" height="180"/>
+
+<br/>
+
+| | |
+|:--|:--|
+| **From** | Nisekoi |
+| **Vibe** | Tsundere · Protective · Soft inside |
+| **Quote** | *"I'm not doing this because I like you or anything!"* |
 
 </div>
 
